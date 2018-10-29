@@ -16,3 +16,6 @@
 hello <- function() {
   print("안녕, 중앙일보 브로콜리!")
 }
+
+"test"
+
