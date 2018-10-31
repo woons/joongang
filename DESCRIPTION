@@ -2,7 +2,7 @@ Package: joongang
 Type: Package
 Title: JoongAng Data Journalism Data
 Version: 0.1.1
-Authors@R: c(person("Yeowoon", "Bae", , email = "bae.yeowoon@joongang.co.kr"", role = c("aut", "cre")))
+Authors@R: c(person("Yeowoon", "Bae", , email = "bae.yeowoon@joongang.co.kr", role = c("aut", "cre")))
 Description: 중앙일보 데이터저널리즘 데이터셋 제공
 Encoding: UTF-8
 Depends: R (>= 3.1.0)
