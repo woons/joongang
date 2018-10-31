@@ -2,9 +2,10 @@ Package: joongang
 Type: Package
 Title: JoongAng Data Journalism Data
 Version: 0.1.1
-Author: person("Ben", "Dorothy", email = "bae.yeowoon@joongang.co.kr, role = "aut")
+Authors@R: person("Yeowoon", "Bae", email = "bae.yeowoon@joongang.co.kr, role = c("aut", "cre"))
 Description: 중앙일보 데이터저널리즘 데이터셋 제공
 Encoding: UTF-8
-Depends : R (>= 3.1.0)
-License : GPL-2
+Depends: R (>= 3.1.0)
+License: GPL-2
 LazyData: true
+RoxygenNote: 6.1.0
